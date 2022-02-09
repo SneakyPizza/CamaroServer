@@ -12,7 +12,6 @@
 
 - [Extra Map Symbols, Extra Map Symbols UI][3]
 - [Better Sorting][4]
-- [Weapon Condition][5]
 - [Water Dispenser][6]
 - [Map Legend UI][8]
 - [Wood Weight Reduction][7]
@@ -23,7 +22,6 @@
 
 [3]:  https://steamcommunity.com/sharedfiles/filedetails/?id=2701170568
 [4]:  https://steamcommunity.com/sharedfiles/filedetails/?id=2313387159
-[5]:  https://steamcommunity.com/sharedfiles/filedetails/?id=2619072426
 [6]:  https://steamcommunity.com/sharedfiles/filedetails/?id=2687798127
 [7]:  https://steamcommunity.com/sharedfiles/filedetails/?id=2377867605
 [8]:  https://steamcommunity.com/sharedfiles/filedetails/?id=2710167561
