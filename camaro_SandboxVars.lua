@@ -42,6 +42,7 @@ SandboxVars = {
     -- 9 is 5AM.
     StartTime = 2,
 
+    ---
     WaterShut = 2,
     ElecShut = 2,
 
@@ -240,7 +241,7 @@ SandboxVars = {
     GeneratorSpawning = 2,
 
     --- How much fuel a generator consumes.
-    GeneratorFuelConsumption = 0.1,
+    GeneratorFuelConsumption = 0.2,
 
     --- The chance of certain house types or maps.
     -- 1 is never.
@@ -400,7 +401,7 @@ SandboxVars = {
     -- 3 is normal.
     -- 4 is high.
     -- 5 is very high.
-    CarDamageOnImpact = 3,
+    CarDamageOnImpact = 2,
 
     --- Whether you can deal damage with a car to players.
     -- 1 is none.
