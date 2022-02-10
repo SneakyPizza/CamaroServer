@@ -440,7 +440,7 @@ SandboxVars = {
 
     Map = {
         --- Whether to allow the mini map.
-        AllowMiniMap = true,
+        AllowMiniMap = false,
 
         --- Whether to allow the world map.
         AllowWorldMap = true,
@@ -459,7 +459,7 @@ SandboxVars = {
         -- 2 is saliva only.
         -- 3 is everyone's infected.
         -- 4 is none.
-        Transmission = 1,
+        Transmission = 2,
 
         Mortality = 5,
         Reanimate = 3,
