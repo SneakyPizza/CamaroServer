@@ -69,8 +69,10 @@
 - [Lake Ivy Township][19]
 - [Bedford Falls][20]
 - [Save Our Station][25]
+- [Fort Benning][27]
 
 [19]: https://steamcommunity.com/sharedfiles/filedetails/?id=2252982049
 [20]: https://steamcommunity.com/sharedfiles/filedetails/?id=522891356
 [25]: https://steamcommunity.com/sharedfiles/filedetails/?id=2398274461
+[27]: https://steamcommunity.com/sharedfiles/filedetails/?id=2693585128
 
